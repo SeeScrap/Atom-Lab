@@ -7,7 +7,7 @@
 
 ## เริ่มใช้งาน
 
-1. กดปุ่ม `Reseles` → `Download ZIP`
+1. กดปุ่ม `Releases` ด้านขวา → `Download ZIP`
 2. แตกไฟล์ ZIP
 3. เข้าโฟลเดอร์ `dist` แล้วเปิด `Atom Lab.html`
 
